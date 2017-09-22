@@ -1,0 +1,10 @@
+insert 1 1 red
+insert 1 2 orange
+insert 2 1 green
+insert 2 2 blue
+Adjacent 1 1 1 2
+Adjacent 1 1 2 1
+Adjacent 1 1 2 2
+Adjacent 1 2 2 2
+Adjacent 2 1 2 2
+Route 2 2 1 2
