@@ -10,7 +10,7 @@ How to Run:
 1. Use the command 'make' or 'make all'
 2. Then run the scripts test.sh and test2.sh
 3. Notice that the scripts run the inputs under the directory test_input and runs a diff on the output in the test_output directory which      were provided in the assignment.
- 
+4. If the scripts do not run, change permissions using chmod
 
 Example                                                                                                             
 'make all'                                                                                                     
