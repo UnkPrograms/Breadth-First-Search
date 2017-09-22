@@ -4,6 +4,7 @@ Breadth First Search Project
 NOTES: 
 1. The programs were ran and tested on linux machines.
 2. MyBST, SubwayDriver, and SubwayGraph were written in Java using the Eclipse IDE
+3. Changing permissions on the scripts may be required using chmod
 
 How to Run:
 1. Use the command 'make' or 'make all'
